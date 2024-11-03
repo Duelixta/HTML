@@ -1,0 +1,27 @@
+body {
+    background-color: yellow;
+    color: blue;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+h1 {
+    color: red;
+}
+
+
+#tit1 {
+
+    color: green;
+
+}
+.leng {
+    color: purple;
+}
+
+p,h1 {
+    background-color: rgb(0, 255, 255);
+}
+.MACACx {
+    color: antiquewhite;
+}
